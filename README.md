@@ -71,19 +71,18 @@ Este script está diseñado para organizar los archivos ubicados en la carpeta d
 > [!NOTE]
 > Tras esto deberías tener una carpeta llamada "SortMyDownloads" dentro de Descargas (Downloads).
 
+  <br>
 
-    <br>
+  - 🔸 Opción #2: Descarga directa:
+      - Dentro de la repo clic `<> Code`.
 
-    - 🔸 Opción #2: Descarga directa:
-        - Dentro de la repo clic `<> Code`.
-
-            ![Dentro de la repo clic Code](./assets/screenshots/reposImg1.png)
+          ![Dentro de la repo clic Code](./assets/screenshots/reposImg1.png)
         
-        - Clic en `Download ZIP` y descarga el archivo .zip
+      - Clic en `Download ZIP` y descarga el archivo .zip
 
-            ![Clic en Download ZIP](./assets/screenshots/reposImg2.png)
+          ![Clic en Download ZIP](./assets/screenshots/reposImg2.png)
 
-        - Abre el `.zip` y extrae la carpeta `SortMyDownloads-main`, en `Descargas` (`Downloads`)
+      - Abre el `.zip` y extrae la carpeta `SortMyDownloads-main`, en `Descargas` (`Downloads`)
  
  <br>
 
