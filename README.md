@@ -125,7 +125,7 @@ Este script está diseñado para organizar los archivos ubicados en la carpeta d
 
 <br>
 
-## 🟧 Activar y desactivar iconos personalizados (Opcional):
+<!-- ## 🟧 Activar y desactivar iconos personalizados (Opcional):
 
 Si quieres aplicar los iconos personalizados, ejecuta el script `iconConfig.sh` que se encuentra dentro de `Descargas/SCRIPTS/SortMyDownloads`.
 
@@ -137,17 +137,9 @@ Si quieres aplicar los iconos personalizados, ejecuta el script `iconConfig.sh` 
 0. Desactivar íconos.
 
 Selecciona una opción:
-   ```
+   ``` -->
 
-  ![carpeta 'Descargas ordenada'](./assets/screenshots/reposImg6.png)
-
-  <!-- [Icons Pack #1](./assets/icons/icons%20pack%201/)
-
-  ![carpeta 'Descargas ordenada'](./assets/screenshots/reposImg4.png)
-
-  [Icons Pack #1](./assets/icons/icons%20pack%202/)
-
-  ![carpeta 'Descargas ordenada'](./assets/screenshots/reposImg5.png) -->
+  
 
 ## Licencia
 Proyecto bajo licencia [MIT.](LICENSE)
