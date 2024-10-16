@@ -19,7 +19,7 @@
 DEST_DIR=$(eval echo "/c/Users/$(whoami)/Downloads")
 
 # Crear directorios si no existen
-mkdir -p "$DEST_DIR"/{TEXTS,AUDIOS,VIDEOS,IMAGES,COMPRESSED FILES,EXECUTABLES,SCRIPTS,DISK IMAGES,FOLDERS,OTHERS}
+mkdir -p "$DEST_DIR"/{TEXTS,AUDIOS,VIDEOS,IMAGES,'COMPRESSED FILES',EXECUTABLES,SCRIPTS,'DISK IMAGES',FOLDERS,OTHERS}
 
 # Función para mover archivos con renombrado si existe
 move_with_rename() {
@@ -94,7 +94,7 @@ for folder in "$DEST_DIR"/*; do
             cp ./SortMyDownloads.sh "$DEST_DIR/SCRIPTS/SortMyDownloads/"
             cp ./iconConfig.sh "$DEST_DIR/SCRIPTS/SortMyDownloads/"
             cp -r ./assets "$DEST_DIR/SCRIPTS/SortMyDownloads/"
-        elif [[ ! "$folder" =~ /TEXTS|/AUDIOS|/VIDEOS|/IMAGES|/"COMPRESSED FILES"|/EXECUTABLES|/SCRIPTS|/DISK IMAGES|/OTHERS|/FOLDERS ]]; then
+        elif [[ ! "$folder" =~ /TEXTS|/AUDIOS|/VIDEOS|/IMAGES|/"COMPRESSED FILES"|/EXECUTABLES|/SCRIPTS|/"DISK IMAGES"|/OTHERS|/FOLDERS ]]; then
             mv "$folder" "$DEST_DIR/FOLDERS/"
         fi
     fi
