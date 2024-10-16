@@ -119,7 +119,8 @@ Este script está diseñado para organizar los archivos ubicados en la carpeta d
    ```cmd
     shell:startup
    ```
-    Se abrirá una ventada en la sig. ruta `C:\Users\~tu usuario~\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup` ahi dentro colocaremos un acceso directo del archivo `SortMyDownloads.sh`.
+    Se abrirá una ventada en la siguiente ruta: <br> `C:\Users\~tu usuario~\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup` <br>
+    ahi dentro colocaremos un acceso directo del archivo `SortMyDownloads.sh`.
 
 > [!NOTE]  
 > Con este método cada vez que el sistema inicie, el script se ejecutara y organizara las carpetas de forma automática.
@@ -140,7 +141,6 @@ Si quieres aplicar los iconos personalizados, ejecuta el script `iconConfig.sh` 
 Selecciona una opción:
    ``` -->
 
-  
 
 ## Licencia
 Proyecto bajo licencia [MIT.](LICENSE)
