@@ -67,8 +67,8 @@ Este script está diseñado para organizar los archivos ubicados en la carpeta d
         git clone https://github.com/im-not-a-d3v/SortMyDownloads.git
          ```
         
-    > [!NOTE]
-    > Tras esto deberías tener una carpeta llamada "SortMyDownloads" dentro de Descargas (Downloads).
+> [!NOTE]
+> Tras esto deberías tener una carpeta llamada "SortMyDownloads" dentro de Descargas (Downloads).
 
     <br>
 
