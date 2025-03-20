@@ -1,4 +1,4 @@
-#  Sort my Downloads v1.0.0
+#  Sort my Downloads v2.0.0
 
 [![version](https://img.shields.io/badge/version-2.0.0-orange?style=for-the-badge&logo=white&labelColor=1c1c1c)](#)
 [![license](https://img.shields.io/badge/license-mit-orange?style=for-the-badge&logo=white&labelColor=1c1c1c)](#)
